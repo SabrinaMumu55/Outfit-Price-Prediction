@@ -1,1 +1,1 @@
-# Predict-The-Price
+# Outfit-Price-Prediction
